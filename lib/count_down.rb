@@ -1,2 +1,2 @@
 # Write your code here
-while 
+while count < 10 
