@@ -1,2 +1,6 @@
 # Write your code here
-while count < 10 
+count = 10
+while count >= 1 do
+  
+  count -= 1
+end
